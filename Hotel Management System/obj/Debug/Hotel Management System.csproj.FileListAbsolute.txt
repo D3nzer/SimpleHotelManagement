@@ -1,0 +1,62 @@
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.LoginForm.resources
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\MySql.Data.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\System.Buffers.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\System.Memory.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\bin\Debug\MySql.Data.xml
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.MainForm.resources
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.GuestForm.resources
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.RoomForm.resources
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.ReservationForm.resources
+C:\Users\acer\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Splash.resources
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Guna.UI2.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Google.Protobuf.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Zstandard.Net.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\BouncyCastle.Crypto.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Ubiety.Dns.Core.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\Renci.SshNet.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\System.Buffers.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\K4os.Compression.LZ4.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\K4os.Hash.xxHash.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\System.Memory.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\System.Numerics.Vectors.dll
+E:\ToTest\Hotel Management System\Hotel Management System\bin\Debug\MySql.Data.xml
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.SuggestedBindingRedirects.cache
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.GuestForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.LoginForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.MainForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.ReservationForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.RoomForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Splash.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CopyComplete
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb

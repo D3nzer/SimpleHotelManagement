@@ -1,0 +1,11 @@
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel Management System.csproj.AssemblyReference.cache
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel Management System.csproj.SuggestedBindingRedirects.cache
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel_Management_System.GuestForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel_Management_System.LoginForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel_Management_System.MainForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel_Management_System.Properties.Resources.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel_Management_System.ReservationForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel_Management_System.RoomForm.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel_Management_System.Splash.resources
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel Management System.csproj.GenerateResource.cache
+E:\ToTest\Hotel Management System\Hotel Management System\obj\Release\Hotel Management System.csproj.CoreCompileInputs.cache
